@@ -1,0 +1,639 @@
+Measurement: V_sample1
+  step	V(v_out)	at
+     1	0.433413003406	3.4e-07
+     2	0.466194282103	3.4e-07
+
+Measurement: V_sample2
+  step	V(v_out)	at
+     1	0.431423530983	7.4e-07
+     2	0.464118653945	7.4e-07
+
+Measurement: V_sample3
+  step	V(v_out)	at
+     1	0.429440846019	1.14e-06
+     2	0.462006694426	1.14e-06
+
+Measurement: V_sample4
+  step	V(v_out)	at
+     1	0.427486045478	1.54e-06
+     2	0.459873572303	1.54e-06
+
+Measurement: V_sample5
+  step	V(v_out)	at
+     1	0.42543505416	1.94e-06
+     2	0.457828490454	1.94e-06
+
+Measurement: V_sample6
+  step	V(v_out)	at
+     1	0.423482547622	2.34e-06
+     2	0.455601579441	2.34e-06
+
+Measurement: V_sample7
+  step	V(v_out)	at
+     1	0.421454225099	2.74e-06
+     2	0.453449418754	2.74e-06
+
+Measurement: V_sample8
+  step	V(v_out)	at
+     1	0.419417114654	3.14e-06
+     2	0.451277522245	3.14e-06
+
+Measurement: V_sample9
+  step	V(v_out)	at
+     1	0.417312373442	3.54e-06
+     2	0.449076232313	3.54e-06
+
+Measurement: V_sample10
+  step	V(v_out)	at
+     1	0.415300769356	3.94e-06
+     2	0.446950768666	3.94e-06
+
+Measurement: V_sample11
+  step	V(v_out)	at
+     1	0.41329742493	4.34e-06
+     2	0.44483412206	4.34e-06
+
+Measurement: V_sample12
+  step	V(v_out)	at
+     1	0.411273180832	4.74e-06
+     2	0.442795951841	4.74e-06
+
+Measurement: V_sample13
+  step	V(v_out)	at
+     1	0.409277313795	5.14e-06
+     2	0.440595344098	5.14e-06
+
+Measurement: V_sample14
+  step	V(v_out)	at
+     1	0.407167722441	5.54e-06
+     2	0.438497026128	5.54e-06
+
+Measurement: V_sample15
+  step	V(v_out)	at
+     1	0.405210091771	5.94e-06
+     2	0.436328997259	5.94e-06
+
+Measurement: V_sample16
+  step	V(v_out)	at
+     1	0.403279077471	6.34e-06
+     2	0.434199203792	6.34e-06
+
+Measurement: V_sample17
+  step	V(v_out)	at
+     1	0.401313987038	6.74e-06
+     2	0.432099599207	6.74e-06
+
+Measurement: V_sample18
+  step	V(v_out)	at
+     1	0.399260619127	7.14e-06
+     2	0.42999567872	7.14e-06
+
+Measurement: V_sample19
+  step	V(v_out)	at
+     1	0.397298042084	7.54e-06
+     2	0.427802546733	7.54e-06
+
+Measurement: V_sample20
+  step	V(v_out)	at
+     1	0.395300216394	7.94e-06
+     2	0.425648430951	7.94e-06
+
+Measurement: V_sample21
+  step	V(v_out)	at
+     1	0.393167787234	8.34e-06
+     2	0.423475357263	8.34e-06
+
+Measurement: V_sample22
+  step	V(v_out)	at
+     1	0.391079901573	8.74e-06
+     2	0.421353786896	8.74e-06
+
+Measurement: V_sample23
+  step	V(v_out)	at
+     1	0.388942027694	9.14e-06
+     2	0.419169801266	9.14e-06
+
+Measurement: V_sample24
+  step	V(v_out)	at
+     1	0.386889842013	9.54e-06
+     2	0.4170079336	9.54e-06
+
+Measurement: V_sample25
+  step	V(v_out)	at
+     1	0.384866485284	9.94e-06
+     2	0.414836524816	9.94e-06
+
+Measurement: V_sample26
+  step	V(v_out)	at
+     1	0.382859980308	1.034e-05
+     2	0.412694294232	1.034e-05
+
+Measurement: V_sample27
+  step	V(v_out)	at
+     1	0.380862396957	1.074e-05
+     2	0.410600466275	1.074e-05
+
+Measurement: V_sample28
+  step	V(v_out)	at
+     1	0.378813135247	1.114e-05
+     2	0.4084584433	1.114e-05
+
+Measurement: V_sample29
+  step	V(v_out)	at
+     1	0.376801820134	1.154e-05
+     2	0.406269533616	1.154e-05
+
+Measurement: V_sample30
+  step	V(v_out)	at
+     1	0.374851297362	1.194e-05
+     2	0.404081281543	1.194e-05
+
+Measurement: V_sample31
+  step	V(v_out)	at
+     1	0.372823794712	1.234e-05
+     2	0.401917917823	1.234e-05
+
+Measurement: V_sample32
+  step	V(v_out)	at
+     1	0.370776444499	1.274e-05
+     2	0.399832758556	1.274e-05
+
+Measurement: V_sample33
+  step	V(v_out)	at
+     1	0.368866131562	1.314e-05
+     2	0.397640475744	1.314e-05
+
+Measurement: V_sample34
+  step	V(v_out)	at
+     1	0.36682867379	1.354e-05
+     2	0.39546509697	1.354e-05
+
+Measurement: V_sample35
+  step	V(v_out)	at
+     1	0.364815152873	1.394e-05
+     2	0.393166675511	1.394e-05
+
+Measurement: V_sample36
+  step	V(v_out)	at
+     1	0.362785650966	1.434e-05
+     2	0.391076568302	1.434e-05
+
+Measurement: V_sample37
+  step	V(v_out)	at
+     1	0.36083427621	1.474e-05
+     2	0.388938673026	1.474e-05
+
+Measurement: V_sample38
+  step	V(v_out)	at
+     1	0.358715468532	1.514e-05
+     2	0.386854520078	1.514e-05
+
+Measurement: V_sample39
+  step	V(v_out)	at
+     1	0.356728032874	1.554e-05
+     2	0.384700741712	1.554e-05
+
+Measurement: V_sample40
+  step	V(v_out)	at
+     1	0.354726472713	1.594e-05
+     2	0.382631009832	1.594e-05
+
+Measurement: V_sample41
+  step	V(v_out)	at
+     1	0.352733346724	1.634e-05
+     2	0.380497585653	1.634e-05
+
+Measurement: V_sample42
+  step	V(v_out)	at
+     1	0.35065536586	1.674e-05
+     2	0.378326938402	1.674e-05
+
+Measurement: V_sample43
+  step	V(v_out)	at
+     1	0.348659465488	1.714e-05
+     2	0.376108687073	1.714e-05
+
+Measurement: V_sample44
+  step	V(v_out)	at
+     1	0.346549130937	1.754e-05
+     2	0.374023367184	1.754e-05
+
+Measurement: V_sample45
+  step	V(v_out)	at
+     1	0.344597096817	1.794e-05
+     2	0.371957862855	1.794e-05
+
+Measurement: V_sample46
+  step	V(v_out)	at
+     1	0.342624028991	1.834e-05
+     2	0.369791463318	1.834e-05
+
+Measurement: V_sample47
+  step	V(v_out)	at
+     1	0.340590719126	1.874e-05
+     2	0.36764211705	1.874e-05
+
+Measurement: V_sample48
+  step	V(v_out)	at
+     1	0.338527059822	1.914e-05
+     2	0.365474560001	1.914e-05
+
+Measurement: V_sample49
+  step	V(v_out)	at
+     1	0.336656137385	1.954e-05
+     2	0.363341429236	1.954e-05
+
+Measurement: V_sample50
+  step	V(v_out)	at
+     1	0.334751459485	1.994e-05
+     2	0.361184062909	1.994e-05
+
+Measurement: V_sample51
+  step	V(v_out)	at
+     1	0.332740117577	2.034e-05
+     2	0.359023441522	2.034e-05
+
+Measurement: V_sample52
+  step	V(v_out)	at
+     1	0.33067583716	2.074e-05
+     2	0.356855585854	2.074e-05
+
+Measurement: V_sample53
+  step	V(v_out)	at
+     1	0.328729588427	2.114e-05
+     2	0.354745574224	2.114e-05
+
+Measurement: V_sample54
+  step	V(v_out)	at
+     1	0.326834839989	2.154e-05
+     2	0.352508055496	2.154e-05
+
+Measurement: V_sample55
+  step	V(v_out)	at
+     1	0.324786821622	2.194e-05
+     2	0.350276528962	2.194e-05
+
+Measurement: V_sample56
+  step	V(v_out)	at
+     1	0.322724622512	2.234e-05
+     2	0.347986544257	2.234e-05
+
+Measurement: V_sample57
+  step	V(v_out)	at
+     1	0.320649403265	2.274e-05
+     2	0.345703114239	2.274e-05
+
+Measurement: V_sample58
+  step	V(v_out)	at
+     1	0.318470803919	2.314e-05
+     2	0.343595484374	2.314e-05
+
+Measurement: V_sample59
+  step	V(v_out)	at
+     1	0.316450755668	2.354e-05
+     2	0.341462922423	2.354e-05
+
+Measurement: V_sample60
+  step	V(v_out)	at
+     1	0.314365038998	2.394e-05
+     2	0.339305753676	2.394e-05
+
+Measurement: V_sample61
+  step	V(v_out)	at
+     1	0.312306836351	2.434e-05
+     2	0.337205028839	2.434e-05
+
+Measurement: V_sample62
+  step	V(v_out)	at
+     1	0.310271315706	2.474e-05
+     2	0.335077717591	2.474e-05
+
+Measurement: V_sample63
+  step	V(v_out)	at
+     1	0.308356288076	2.514e-05
+     2	0.332980899181	2.514e-05
+
+Measurement: V_sample64
+  step	V(v_out)	at
+     1	0.306429871538	2.554e-05
+     2	0.330805017349	2.554e-05
+
+Measurement: V_sample65
+  step	V(v_out)	at
+     1	0.304424201122	2.594e-05
+     2	0.328693132426	2.594e-05
+
+Measurement: V_sample66
+  step	V(v_out)	at
+     1	0.302468919417	2.634e-05
+     2	0.326566288031	2.634e-05
+
+Measurement: V_sample67
+  step	V(v_out)	at
+     1	0.300468693171	2.674e-05
+     2	0.324432822992	2.674e-05
+
+Measurement: V_sample68
+  step	V(v_out)	at
+     1	0.298396630111	2.714e-05
+     2	0.322198138096	2.714e-05
+
+Measurement: V_sample69
+  step	V(v_out)	at
+     1	0.296345833226	2.754e-05
+     2	0.320087983692	2.754e-05
+
+Measurement: V_sample70
+  step	V(v_out)	at
+     1	0.294288629132	2.794e-05
+     2	0.317867323225	2.794e-05
+
+Measurement: V_sample71
+  step	V(v_out)	at
+     1	0.292266029682	2.834e-05
+     2	0.315697226095	2.834e-05
+
+Measurement: V_sample72
+  step	V(v_out)	at
+     1	0.290395199987	2.874e-05
+     2	0.313552097066	2.874e-05
+
+Measurement: V_sample73
+  step	V(v_out)	at
+     1	0.288377442464	2.914e-05
+     2	0.311518863688	2.914e-05
+
+Measurement: V_sample74
+  step	V(v_out)	at
+     1	0.286371916907	2.954e-05
+     2	0.309394596733	2.954e-05
+
+Measurement: V_sample75
+  step	V(v_out)	at
+     1	0.284391007259	2.994e-05
+     2	0.307058982928	2.994e-05
+
+Measurement: V_sample76
+  step	V(v_out)	at
+     1	0.282369600747	3.034e-05
+     2	0.304928256497	3.034e-05
+
+Measurement: V_sample77
+  step	V(v_out)	at
+     1	0.280243979278	3.074e-05
+     2	0.302776857692	3.074e-05
+
+Measurement: V_sample78
+  step	V(v_out)	at
+     1	0.27822741143	3.114e-05
+     2	0.300572001537	3.114e-05
+
+Measurement: V_sample79
+  step	V(v_out)	at
+     1	0.276167114993	3.154e-05
+     2	0.298384078932	3.154e-05
+
+Measurement: V_sample80
+  step	V(v_out)	at
+     1	0.274218956343	3.194e-05
+     2	0.296209091677	3.194e-05
+
+Measurement: V_sample81
+  step	V(v_out)	at
+     1	0.272177735191	3.234e-05
+     2	0.29398631589	3.234e-05
+
+Measurement: V_sample82
+  step	V(v_out)	at
+     1	0.270162429641	3.274e-05
+     2	0.291718888152	3.274e-05
+
+Measurement: V_sample83
+  step	V(v_out)	at
+     1	0.268175763803	3.314e-05
+     2	0.289616070766	3.314e-05
+
+Measurement: V_sample84
+  step	V(v_out)	at
+     1	0.266063439428	3.354e-05
+     2	0.287468103349	3.354e-05
+
+Measurement: V_sample85
+  step	V(v_out)	at
+     1	0.264146232444	3.394e-05
+     2	0.285294627291	3.394e-05
+
+Measurement: V_sample86
+  step	V(v_out)	at
+     1	0.262066490332	3.434e-05
+     2	0.283425517783	3.434e-05
+
+Measurement: V_sample87
+  step	V(v_out)	at
+     1	0.260045545434	3.474e-05
+     2	0.281229750951	3.474e-05
+
+Measurement: V_sample88
+  step	V(v_out)	at
+     1	0.258059209507	3.514e-05
+     2	0.279065831658	3.514e-05
+
+Measurement: V_sample89
+  step	V(v_out)	at
+     1	0.256009820057	3.554e-05
+     2	0.27686491157	3.554e-05
+
+Measurement: V_sample90
+  step	V(v_out)	at
+     1	0.253981439211	3.594e-05
+     2	0.27479913501	3.594e-05
+
+Measurement: V_sample91
+  step	V(v_out)	at
+     1	0.251962494911	3.634e-05
+     2	0.272709661977	3.634e-05
+
+Measurement: V_sample92
+  step	V(v_out)	at
+     1	0.24988467917	3.674e-05
+     2	0.270505638175	3.674e-05
+
+Measurement: V_sample93
+  step	V(v_out)	at
+     1	0.24798692339	3.714e-05
+     2	0.268406381071	3.714e-05
+
+Measurement: V_sample94
+  step	V(v_out)	at
+     1	0.245916185913	3.754e-05
+     2	0.266343719115	3.754e-05
+
+Measurement: V_sample95
+  step	V(v_out)	at
+     1	0.243871660864	3.794e-05
+     2	0.26424791996	3.794e-05
+
+Measurement: V_sample96
+  step	V(v_out)	at
+     1	0.241816680961	3.834e-05
+     2	0.262042995489	3.834e-05
+
+Measurement: V_sample97
+  step	V(v_out)	at
+     1	0.239834911254	3.874e-05
+     2	0.25989738643	3.874e-05
+
+Measurement: V_sample98
+  step	V(v_out)	at
+     1	0.237834649192	3.914e-05
+     2	0.257892637201	3.914e-05
+
+Measurement: V_sample99
+  step	V(v_out)	at
+     1	0.235772302798	3.954e-05
+     2	0.25578846298	3.954e-05
+
+Measurement: V_sample100
+  step	V(v_out)	at
+     1	0.233789190016	3.994e-05
+     2	0.253733260315	3.994e-05
+
+Measurement: V_sample101
+  step	V(v_out)	at
+     1	0.231775938476	4.034e-05
+     2	0.251549707521	4.034e-05
+
+Measurement: V_sample102
+  step	V(v_out)	at
+     1	0.22985315721	4.074e-05
+     2	0.249324168587	4.074e-05
+
+Measurement: V_sample103
+  step	V(v_out)	at
+     1	0.227847027309	4.114e-05
+     2	0.247141284624	4.114e-05
+
+Measurement: V_sample104
+  step	V(v_out)	at
+     1	0.225647747165	4.154e-05
+     2	0.24502835492	4.154e-05
+
+Measurement: V_sample105
+  step	V(v_out)	at
+     1	0.22352101178	4.194e-05
+     2	0.24272762355	4.194e-05
+
+Measurement: V_sample106
+  step	V(v_out)	at
+     1	0.221461871378	4.234e-05
+     2	0.240587759295	4.234e-05
+
+Measurement: V_sample107
+  step	V(v_out)	at
+     1	0.219484734403	4.274e-05
+     2	0.238282225085	4.274e-05
+
+Measurement: V_sample108
+  step	V(v_out)	at
+     1	0.217467151062	4.314e-05
+     2	0.236057800775	4.314e-05
+
+Measurement: V_sample109
+  step	V(v_out)	at
+     1	0.215493369475	4.354e-05
+     2	0.233875138433	4.354e-05
+
+Measurement: V_sample110
+  step	V(v_out)	at
+     1	0.213461074915	4.394e-05
+     2	0.23175157246	4.394e-05
+
+Measurement: V_sample111
+  step	V(v_out)	at
+     1	0.21158591296	4.434e-05
+     2	0.229559600342	4.434e-05
+
+Measurement: V_sample112
+  step	V(v_out)	at
+     1	0.209600564051	4.474e-05
+     2	0.227493086295	4.474e-05
+
+Measurement: V_sample113
+  step	V(v_out)	at
+     1	0.207666113226	4.514e-05
+     2	0.225380790134	4.514e-05
+
+Measurement: V_sample114
+  step	V(v_out)	at
+     1	0.205684661838	4.554e-05
+     2	0.223297952336	4.554e-05
+
+Measurement: V_sample115
+  step	V(v_out)	at
+     1	0.203702337794	4.594e-05
+     2	0.221217613247	4.594e-05
+
+Measurement: V_sample116
+  step	V(v_out)	at
+     1	0.201696290233	4.634e-05
+     2	0.219087510295	4.634e-05
+
+Measurement: V_sample117
+  step	V(v_out)	at
+     1	0.199651517344	4.674e-05
+     2	0.217060909823	4.674e-05
+
+Measurement: V_sample118
+  step	V(v_out)	at
+     1	0.197658612734	4.714e-05
+     2	0.214926982306	4.714e-05
+
+Measurement: V_sample119
+  step	V(v_out)	at
+     1	0.195662587296	4.754e-05
+     2	0.212838405907	4.754e-05
+
+Measurement: V_sample120
+  step	V(v_out)	at
+     1	0.193687872062	4.794e-05
+     2	0.210510960349	4.794e-05
+
+Measurement: V_sample121
+  step	V(v_out)	at
+     1	0.191660218452	4.834e-05
+     2	0.208371568241	4.834e-05
+
+Measurement: V_sample122
+  step	V(v_out)	at
+     1	0.189605275535	4.874e-05
+     2	0.206192557828	4.874e-05
+
+Measurement: V_sample123
+  step	V(v_out)	at
+     1	0.187589503323	4.914e-05
+     2	0.203993279944	4.914e-05
+
+Measurement: V_sample124
+  step	V(v_out)	at
+     1	0.185624532673	4.954e-05
+     2	0.201842559783	4.954e-05
+
+Measurement: V_sample125
+  step	V(v_out)	at
+     1	0.183666890694	4.994e-05
+     2	0.199747878852	4.994e-05
+
+Measurement: V_sample126
+  step	V(v_out)	at
+     1	0.181697874431	5.034e-05
+     2	0.197455667891	5.034e-05
+
+Measurement: V_sample127
+  step	V(v_out)	at
+     1	0.179768049413	5.074e-05
+     2	0.195342941396	5.074e-05
+
+Measurement: V_sample128
+  step	V(v_out)	at
+     1	0.177785835243	5.114e-05
+     2	0.193239007663	5.114e-05
